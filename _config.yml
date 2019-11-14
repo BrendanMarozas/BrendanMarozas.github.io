@@ -1,21 +1,21 @@
 # Site wide configuration
 
-title: Site Title
+title: Brendan Marozas
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
+  name: Brendan Marozas
   avatar: bio-photo.jpg
   bio: "A brief description of yourself."
-  email: #emailaddress
+  email: brendan.marozas@rochester.edu
   # Do not include the @ symbol in your Twitter username
   twitter: #username
-  linkedin: #username
-  github: #username
-  orcid: # ID Number (ex. 0000-0000-0000-0000)
-  researchgate: #username
+  linkedin: brendanmarozas
+  github: BrendanMarozas
+  orcid: 0000-0002-2220-0957
+  researchgate: Brendan_Marozas
   mendeley: #username
   google:
     plus: #username
