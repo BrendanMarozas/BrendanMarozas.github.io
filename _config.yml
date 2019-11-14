@@ -2,13 +2,13 @@
 
 title: Brendan Marozas
 locale: en_US
-logo: # filename of a logo image that has been placed into your images directory
+logo: logo.jpg
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Brendan Marozas
-  avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
+  avatar: BrendanHeadshot.jpeg
+  bio: "Brendan is a NASA Space Technology Research Fellow, working to enhance performance of quantum structure infrare photodetectors."
   email: brendan.marozas@rochester.edu
   # Do not include the @ symbol in your Twitter username
   twitter: #username
