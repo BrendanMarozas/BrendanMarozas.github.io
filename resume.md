@@ -74,10 +74,10 @@ __Undergraduate Researcher__, Cornell University
 -	Conducted research for a small business, delivered results using high-throughput techniques
 
 `2013`
-__Intern__, National Renewable Energy Laboratory
+__Intern__, National Renewable Energy Laboratory <br>
 -	Led project to improve efficiency of silicon processing by locating cleanroom contamination sources
 -	Collaborated with National Institute of Standards and Technology (Boulder) to engineer a solution
 
 
 
-### Updated: Novemeber 2019
+### Updated: November 2019
