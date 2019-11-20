@@ -18,18 +18,10 @@ BS in Materials Science and Engineering
 ## Awards
 
 `2016` NASA Space Technology Research Fellowship, NASA
-
-`2016`
-NSF Graduate Research Fellowship Program, NSF
-
-`2014`
-1st Place at Materials Science and Engineering Poster Session, Cornell University
-
-`2013`
-Engineering Global Fellow, Cornell University
-
-`2012`
-Undergraduate Research Award, Semiconductor Research Corporation
+`2016` NSF Graduate Research Fellowship Program, NSF
+`2014` 1st Place at Materials Science and Engineering Poster Session, Cornell University
+`2013` Engineering Global Fellow, Cornell University
+`2012` Undergraduate Research Award, Semiconductor Research Corporation
 
 ## Publications
 A list is also available [online](https://scholar.google.co.uk/citations?user=XaOFLHIAAAAJ)
