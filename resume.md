@@ -7,22 +7,34 @@ Current Position Description
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2014 - 2020`
+__University of Rochester__
+PhD in Materials Science (Expected)
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2010 - 2014`
+__Cornell University__
+BS in Materials Science and Engineering 
 
 ## Awards
 
-`2012`
-Name of Award, Organization 
+`2016`
+NASA Space Technology Research Fellowship, NASA
+
+'2016'
+NSF Graduate Research Fellowship Program, NSF
+
+'2014'
+1st Place at Materials Science and Engineering Poster Session, Cornell University
+
+'2013'
+Engineering Global Fellow, Cornell University
+
+'2012'
+Undergraduate Research Award, Semiconductor Research Corporation
 
 ## Publications
 
-<!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+<-- A list is also available [online](https://scholar.google.co.uk/citations?user=XaOFLHIAAAAJ) -->
 
 ### Journals
 
@@ -31,14 +43,6 @@ Article Title, Journal Title
 
 `1994`
 Article Title, Journal Title
-
-### Books
-
-`1994`
-Book Title, Journal Title
-
-`1994`
-Book Title, Journal Title
 
 
 ## Presentations
@@ -50,21 +54,38 @@ Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Li
 ## Occupation
 
 `Current`
-__Current Job Title__, Current Employer 
+__PhD Candidate__, University of Rochester 
 
-- Task
-- Task
+-	Managed lab technology and resources, MBE steward, automated processes and enabled remote control
+-	Led group projects, trained lab members, and provided consultation on complex device issues
+-	Prepared research proposals and quarterly reports. Developed research collaborations with NASA Jet Propulsion Laboratory, Air Force Research Laboratory, and Center for Semiconductor Modeling
+-	Built models for bulk material and superlattice properties, designed heterojunction devices
+-	Grew compound semiconductors, quantum structures, and heterojunction devices with MBE
+-	Processed epitaxial growth into photodetector devices, developed and documented novel techniques
+-	Characterized and analyzed photodetector devices, material quality, and surface properties
 
-`1994-1996`
-__Current Job Title__, Current Employer 
+`2011-2014`
+__Research Assistant__, Laboratory for Laser Energetics
 
-- Task
-- Task
+-	Researched damage morphology of HfO2 monolayers using Atomic Force Microscopy and image analysis
+-	Identified origin of damage using Photothermal Heterodyne Imaging and ray-trace modeling
+-	Characterized the system's annealing effects on HfO2, for mitigation of laser induced damage
 
+`2011-2014`
+__Undergraduate Researcher__, Cornell University
 
+-	Characterized optical properties of thin films using ellipsometry and reflectometry for fuel cell materials
+-	Grew and characterized thin films on a flexible ceramic substrate for photovoltaics/superconductors
+-	Conducted research for a small business, delivered results using high-throughput techniques
 
-<!-- ### Footer
+`2013`
+__Intern__, National Renewable Energy Laboratory
 
-Last updated: May 2013 -->
+-	Led project to improve efficiency of silicon processing by locating cleanroom contamination sources
+-	Collaborated with National Institute of Standards and Technology (Boulder) to engineer a solution
+
+<-- ### Footer
+
+Last updated: Novemeber 2019 -->
 
 
