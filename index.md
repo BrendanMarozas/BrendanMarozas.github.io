@@ -3,12 +3,13 @@ layout: page
 excerpt: "About Me..."
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Materials scientist and engineer with 8 years of research experience in optoelectronic devices, thin films, molecular beam epitaxy, compound semiconductors, optical materials, and renewable energy
+NASA Space Technology Research Fellow, collaborating with Jet Propulsion Lab to develop quantum structure infrared photodetectors for space-based application
 
-## Current Interests and Projects:
+## Technical Skills:
 
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- DLorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
+Modeling – MATLAB, Mathematica, Python, OptiLayer, LabView, C++
+Deposition – Molecular Beam Epitaxy, Physical Vapor Deposition (Sputtering/Thermal/Electron-Beam) 
+Processing – Standard Photolithography, Laser Lithography, Mask Design, Wet Bench, Cleanroom
+Characterization – Photoluminescence, X-Ray Diffraction, Atomic Force Microscopy, Scanning Electron Microscopy, Photothermal Heterodyne Imaging, Hall Effect, Ellipsometry, Reflectometry, Current-Voltage, Optical Modulation Response, Nomarski Microscopy, Profilometry (Contact/Optical), ImageJ
+Other – Design of Experiments, Automation, Lab Management, Equipment Development/Integration
