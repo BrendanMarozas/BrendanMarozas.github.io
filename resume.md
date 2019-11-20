@@ -9,8 +9,7 @@ Current Position Description
 
 `2014 - 2020`
 __University of Rochester__
-PhD in Materials Science (Expected)
-
+PhD in Materials Science (Expected) <br>
 `2010 - 2014`
 __Cornell University__
 BS in Materials Science and Engineering 
