@@ -34,7 +34,7 @@ Undergraduate Research Award, Semiconductor Research Corporation
 
 ## Publications
 
-<-- A list is also available [online](https://scholar.google.co.uk/citations?user=XaOFLHIAAAAJ) -->
+<!-- A list is also available [online](https://scholar.google.co.uk/citations?user=XaOFLHIAAAAJ) -->
 
 ### Journals
 
@@ -84,7 +84,7 @@ __Intern__, National Renewable Energy Laboratory
 -	Led project to improve efficiency of silicon processing by locating cleanroom contamination sources
 -	Collaborated with National Institute of Standards and Technology (Boulder) to engineer a solution
 
-<-- ### Footer
+<!-- ### Footer
 
 Last updated: Novemeber 2019 -->
 
