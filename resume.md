@@ -17,8 +17,7 @@ BS in Materials Science and Engineering
 
 ## Awards
 
-`2016`
-NASA Space Technology Research Fellowship, NASA
+`2016` NASA Space Technology Research Fellowship, NASA
 
 `2016`
 NSF Graduate Research Fellowship Program, NSF
@@ -74,7 +73,7 @@ __Undergraduate Researcher__, Cornell University
 -	Conducted research for a small business, delivered results using high-throughput techniques
 
 `2013`
-__Intern__, National Renewable Energy Laboratory <br>
+__Intern__, National Renewable Energy Laboratory
 -	Led project to improve efficiency of silicon processing by locating cleanroom contamination sources
 -	Collaborated with National Institute of Standards and Technology (Boulder) to engineer a solution
 
