@@ -2,7 +2,7 @@
 layout: resume
 ---
 
-A printable PDF version is available [here](https://brendanmarozas.github.io/images/Resume Feb2020.pdf)
+A printable PDF version is available [here](https://brendanmarozas.github.io/images/ResumeFeb2020.pdf)
 
 ## Education
 
