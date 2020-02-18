@@ -3,7 +3,7 @@ layout: resume
 ---
 ## Currently
 
-Current Position Description
+PhD Candidate in Materials Science at the University of Rochester
 
 ## Education
 
