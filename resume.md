@@ -47,6 +47,9 @@ S Papernov, AA Kozlov, JB Oliver, TJ Kessler, A Shyvdky, BT Marozas, “Near-ult
 
 ### Presentations
 
+`2020`
+BT Marozas, “Modeling, Design, and Fabrication of Mid-Wave Infrared Photodetectors,” Presentation given at SONY Electronics, Rochester NY (2020).
+
 `2019`
 BT Marozas, “MBE Growth of Structures for Mid-Wave Infrared Photodetectors,” Presentation given at the Air Force Research Laboratory, Albuquerque NM (2019).
 
