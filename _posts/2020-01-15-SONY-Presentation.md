@@ -1,26 +1,26 @@
 ---
 layout: slide
-title: Modeling, Design, Fabrication of Mid-Wave Infrared Photodetectors
-excerpt: A sample file showing the correct markup for creating a Reveal.js slide deck"
+title: Modeling, Design, and Fabrication of Mid-Wave Infrared Photodetectors
+excerpt: A presentation given at SONY
 theme: simple
 transition: slide
 tags: [presentation]
 category: presentation
 ---
-<section data-markdown>
+<section data-markdown data-transition="slide-in fade-out">
 
 # Reveal.js and Jekyll Academic
 
 
 </section>
 
-<section data-markdown>
+<section data-markdown data-transition="slide-in fade-out">
 ## HTML or Markdown
 Reveal.js works with either. Use whatever you are more comfortable with.
 
 </section>
 
-<section data-markdown>
+<section data-markdown data-transition="slide-in fade-out">
 ## Works Anywhere
 
 By creating presentations using Reveal.js and hosting them on your Jekyll Academic site you will have access to them anywhere. No need to worry about software compatibility, no need to sign in to email accounts on public machines. Simply load your website and select the presentation.
