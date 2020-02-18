@@ -7,11 +7,7 @@ transition: slide
 tags: [presentation]
 category: presentation
 ---
-<section data-markdown data-transition="slide-in fade-out">
-
-# Reveal.js and Jekyll Academic
-
-
+<section data-background-image="https://brendanmarozas.github.io/images/PresentSONY2020/Slide1.png">
 </section>
 
 <section data-markdown data-transition="slide-in fade-out">
