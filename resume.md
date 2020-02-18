@@ -2,6 +2,8 @@
 layout: resume
 ---
 
+Currently a PhD Candidate in Materials Science at the University of Rochester
+
 ## Education
 
 `2014 - 2020`
