@@ -10,7 +10,7 @@ category: presentation
 <section data-background-image="https://brendanmarozas.github.io/images/PresentSONY2020/Slide1.png">
 </section>
 
-<section data-background-image="https://brendanmarozas.github.io/images/PresentSONY2020/Slide2.png">
+<section data-background-image="https://brendanmarozas.github.io/images/Star1.png">
 </section>
 
 <section data-background-image="https://brendanmarozas.github.io/images/PresentSONY2020/Slide3.png">
