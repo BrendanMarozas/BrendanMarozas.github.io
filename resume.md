@@ -1,6 +1,7 @@
 ---
 layout: resume
 ---
+
 ## Currently
 
 PhD Candidate in Materials Science at the University of Rochester
