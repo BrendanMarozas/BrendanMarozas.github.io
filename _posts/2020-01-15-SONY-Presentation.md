@@ -3,7 +3,7 @@ layout: slide
 title: Modeling, Design, Fabrication of Mid-Wave Infrared Photodetectors
 excerpt: A sample file showing the correct markup for creating a Reveal.js slide deck"
 theme: simple
-transition: slide-in fade-out
+transition: slide
 tags: [presentation]
 category: presentation
 ---
