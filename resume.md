@@ -2,10 +2,6 @@
 layout: resume
 ---
 
-## Currently
-
-PhD Candidate in Materials Science at the University of Rochester
-
 ## Education
 
 `2014 - 2020`
@@ -97,4 +93,4 @@ __Intern__, National Renewable Energy Laboratory
 
 
 
-### Updated: November 2019
+### Updated: February 2020
