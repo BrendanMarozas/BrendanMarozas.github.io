@@ -2,7 +2,7 @@
 layout: resume
 ---
 
-Currently a PhD Candidate in Materials Science at the University of Rochester
+A printable PDF version is available [here](https://brendanmarozas.github.io/images/Resume Feb2020.pdf)
 
 ## Education
 
