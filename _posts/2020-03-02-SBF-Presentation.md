@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: Modeling, Design, and Fabrication of Mid-Wave Infrared Photodetectors
+title: Modeling, Fabrication, and Characterization of Mid-Wave Barrier Infrared Photodetectors
 excerpt: A presentation given at SBF, Goleta CA
 theme: simple
 transition: slide
